@@ -1,6 +1,6 @@
-//Tobías Kai Aguado y Carolina Porreca
+//Alumnos: Tobías Kai Aguado y Carolina Porreca
 //Links: 
-//video de YouTube de Tobías:
+//video de YouTube de Tobías: https://youtu.be/0hQJGhG4quE?si=gCBFd6GWjrm0axjt
 //video de Youtube de Carolina:
 
 let imagen = [];
@@ -57,3 +57,4 @@ function mousePressed() {
 
   finales();
 }
+
